@@ -1,0 +1,585 @@
+1
+Países Baixos
+Amsterdã
+2
+Dominica
+Roseau
+3
+Gana
+Acra
+4
+El Salvador
+São Salvador
+5
+Quirguistão
+Bisqueque
+6
+Eslováquia
+Bratislava
+7
+Essuatíni
+Lobamba & Mbabane
+8
+Líbano
+Beirute
+9
+Chade
+N'Djamena
+10
+Emirados Árabes Unidos
+Abu Dhabi
+11
+Butão
+Timbu
+12
+Lesoto
+Maseru
+13
+Filipinas
+Manila
+14
+Guiné-Bissau
+Bissau
+15
+Zimbabué
+Harare
+16
+República Centro-Africana
+Bangui
+17
+Maldivas
+Malé
+18
+Argentina
+Buenos Aires
+19
+Uganda
+Campala
+20
+Marrocos
+Rabate
+21
+Sri Lanka
+Sri Jayawardenepura Kotte
+22
+Portugal
+Lisboa
+23
+Moçambique
+Maputo
+24
+Noruega
+Oslo
+25
+Mónaco
+Mónaco
+26
+Uzbequistão
+Tashkent
+27
+Irão
+Teerão
+28
+Comores
+Moroni
+29
+Tuvalu
+Funafuti
+30
+Santa Lúcia
+Castries
+31
+Seicheles
+Victoria
+32
+Letónia
+Riga
+33
+São Marino
+São Marino
+34
+Serra Leoa
+Freetown
+35
+Liechtenstein
+Vaduz
+36
+República Dominicana
+Santo Domingo
+37
+Namíbia
+Windhoek
+38
+Nepal
+Catmandu
+39
+Togo
+Lomé
+40
+Trindade e Tobago
+Porto de Espanha
+41
+Chéquia
+Praga
+42
+Jamaica
+Kingston
+43
+Ruanda
+Kigali
+44
+Malásia
+Kuala Lumpur
+45
+Vietname
+Hanói
+46
+Mauritânia
+Nouakchott
+47
+Albânia
+Tirana
+48
+Guiné Equatorial
+Malabo
+49
+Chipre
+Nicósia
+50
+Dinamarca
+Copenhague
+51
+Sudão do Sul
+Juba
+52
+Tonga
+Nucualofa
+53
+Cazaquistão
+Astana
+54
+Cuba
+Havana
+55
+Omã
+Mascate
+56
+Eslovénia
+Liubliana
+57
+Estónia
+Tallinn
+58
+Ilhas Salomão
+Honiara
+59
+Brasil
+Brasília
+60
+Palau
+Ngerulmud
+61
+Benim
+Porto Novo
+62
+Gâmbia
+Banjul
+63
+Coreia do Norte
+Pyongyang
+64
+Nova Zelândia
+Wellington
+65
+Libéria
+Monróvia
+66
+Angola
+Luanda
+67
+Iémen
+Sana
+68
+Mianmar
+Naypyidaw
+69
+Bósnia e Herzegovina
+Sarajevo
+70
+Burkina Faso
+Ouagadougou
+71
+Fiji
+Suva
+72
+Finlândia
+Helsínque
+73
+França
+Paris
+74
+Índia
+Nova Deli
+75
+Islândia
+Reiquiavique
+76
+Jordânia
+Amã
+77
+Madagáscar
+Antananarivo
+78
+Mongólia
+Ulan Bator
+79
+Peru
+Lima
+80
+Catar
+Doha
+81
+Senegal
+Dakar
+82
+Somália
+Mogadíscio
+83
+Espanha
+Madrid
+84
+Suécia
+Estocolmo
+85
+Tajiquistão
+Dushanbe
+86
+Ucrânia
+Kiev
+87
+Zâmbia
+Lusaca
+88
+Afeganistão
+Cabul
+89
+Malta
+Valeta
+90
+Burundi
+Gitega
+91
+Equador
+Quito
+92
+Guatemala
+Cidade da Guatemala
+93
+Haiti
+Porto Príncipe
+94
+Indonésia
+Jacarta
+95
+Luxemburgo
+Luxemburgo
+96
+Mali
+Bamako
+97
+México
+Cidade do México
+98
+Paquistão
+Islamabade
+99
+Polónia
+Varsóvia
+100
+Roménia
+Bucareste
+101
+Sérvia
+Belgrado
+102
+África do Sul
+Cidade do Cabo, Pretória, Bloemfontein
+103
+Sudão
+Cartum
+104
+Suíça
+Berna
+105
+Turquia
+Ancara
+106
+Reino Unido
+Londres
+107
+Uruguai
+Montevidéu
+108
+Arménia
+Erevã
+109
+Austrália
+Camberra
+110
+Barém
+Manama
+111
+Bolívia
+Sucre & La Paz
+112
+Brunei
+Bandar Seri Begawan
+113
+Bulgária
+Sófia
+114
+Camarões
+Iaundé
+115
+Canadá
+Otava
+116
+Colômbia
+Bogotá
+117
+Costa do Marfim
+Iamussucro
+118
+Croácia
+Zagreb
+119
+Djibouti
+Jibuti
+120
+Egito
+Cairo
+121
+Gabão
+Libreville
+122
+Geórgia
+Tbilisi
+123
+Alemanha
+Berlim
+124
+Grécia
+Atenas
+125
+Hungria
+Budapeste
+126
+Irlanda
+Dublim
+127
+Israel
+Jerusalém
+128
+Itália
+Roma
+129
+Japão
+Tóquio
+130
+Kuwait
+Cidade do Kuwait
+131
+Malawi
+Lilongwe
+132
+Maurícia
+Port Louis
+133
+Moldávia
+Chisinau
+134
+Montenegro
+Podgorica
+135
+Nauru
+Yaren (distrito)
+136
+Nigéria
+Abuja
+137
+Macedónia do Norte
+Escópia
+138
+Panamá
+Cidade do Panamá
+139
+Papua Nova Guiné
+Port Moresby
+140
+Paraguai
+Assunção
+141
+Federação Russa
+Moscou
+142
+Arábia Saudita
+Riade
+143
+Singapura
+Singapura
+144
+Coreia do Sul
+Seul
+145
+Síria
+Damasco
+146
+Tanzânia
+Dodoma
+147
+Estados Unidos da América
+Washington, D.C.
+148
+Venezuela
+Caracas
+149
+Andorra
+Andorra-a-Velha
+150
+Antígua e Barbuda
+Saint John's
+151
+Áustria
+Viena
+152
+Azerbaijão
+Baku
+153
+Bahamas
+Nassau
+154
+Bangladexe
+Daca
+155
+Barbados
+Bridgetown
+156
+Bielorrússia
+Minsk
+157
+Bélgica
+Bruxelas
+158
+Belize
+Belmopan
+159
+Botsuana
+Gaborone
+160
+Camboja
+Phnom Penh
+161
+Cabo Verde
+Praia
+162
+Chile
+Santiago
+163
+China
+Pequim
+164
+Congo (Brazzaville)
+Brazzaville
+165
+Congo (Kinshasa)
+Kinshasa
+166
+Costa Rica
+San José
+167
+Eritreia
+Asmara
+168
+Etiópia
+Adis Abeba
+169
+Granada
+Saint George's
+170
+Guiné
+Conacri
+171
+Guiana
+Georgetown
+172
+Honduras
+Tegucigalpa
+173
+Quénia
+Nairobi
+174
+Kiribati
+Tarawa do Sul
+175
+Laos
+Vientiane
+176
+Líbia
+Trípoli
+177
+Lituânia
+Vílnius
+178
+Ilhas Marshall
+Majuro
+179
+Micronésia
+Palikir
+180
+Níger
+Niamei
+181
+São Cristóvão e Neves
+Basseterre
+182
+São Tomé e Príncipe
+São Tomé
+183
+São Vicente e Granadinas
+Kingstown
+184
+Samoa
+Apia
+185
+Suriname
+Paramaribo
+186
+Tailândia
+Banguecoque
+187
+Timor-Leste
+Díli
+188
+Tunísia
+Tunes
+189
+Turquemenistão
+Asgabate
+190
+Vanuatu
+Port Vila
+191
+Vaticano
+Cidade do Vaticano
+192
+Argélia
+Argel
+193
+Polônia
+Varsóvia
+194
+Cingapura
+Cingapura
+195
+Iraque
+Bagdá

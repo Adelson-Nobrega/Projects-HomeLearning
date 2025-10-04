@@ -1,0 +1,975 @@
+001. Países Baixos
+a) Berna
+b) Amsterdã
+c) Copenhague
+d) Bruxelas
+002. Dominica
+a) Roseau
+b) Santo Domingo
+c) Porto de Espanha
+d) Kingstown
+003. Gana
+a) Acra
+b) Abuja
+c) Lomé
+d) Dakar
+004. El Salvador
+a) Tegucigalpa
+b) Manágua
+c) São Salvador
+d) Cidade da Guatemala
+005. Quirguistão
+a) Dushanbe
+b) Asgabate
+c) Tashkent
+d) Bisqueque
+006. Eslováquia
+a) Liubliana
+b) Bratislava
+c) Praga
+d) Budapeste
+007. Essuatíni
+a) Maseru
+b) Lobamba & Mbabane
+c) Gaborone
+d) Harare
+008. Líbano
+a) Damasco
+b) Amã
+c) Beirute
+d) Ancara
+009. Chade
+a) Niamei
+b) N'Djamena
+c) Cartum
+d) Bangui
+010. Emirados Árabes Unidos
+a) Doha
+b) Abu Dhabi
+c) Manama
+d) Mascate
+011. Butão
+a) Catmandu
+b) Daca
+c) Timbu
+d) Naypyidaw
+012. Lesoto
+a) Mbabane
+b) Pretória
+c) Maseru
+d) Gaborone
+013. Filipinas
+a) Jacarta
+b) Kuala Lumpur
+c) Manila
+d) Banguecoque
+014. Guiné-Bissau
+a) Bissau
+b) Conacri
+c) Freetown
+d) Praia
+015. Zimbabué
+a) Lusaca
+b) Harare
+c) Maputo
+d) Windhoek
+016. República Centro-Africana
+a) Bangui
+b) Iaundé
+c) Brazzaville
+d) Kinshasa
+017. Maldivas
+a) Colombo
+b) Malé
+c) Victoria
+d) Port Louis
+018. Argentina
+a) Santiago
+b) Montevidéu
+c) Buenos Aires
+d) Lima
+019. Uganda
+a) Nairobi
+b) Kigali
+c) Campala
+d) Dodoma
+020. Marrocos
+a) Argel
+b) Tunes
+c) Trípoli
+d) Rabate
+021. Sri Lanka
+a) Malé
+b) Sri Jayawardenepura Kotte
+c) Catmandu
+d) Nova Deli
+022. Portugal
+a) Madrid
+b) Lisboa
+c) Paris
+d) Roma
+023. Moçambique
+a) Luanda
+b) Maputo
+c) Lusaca
+d) Harare
+024. Noruega
+a) Estocolmo
+b) Copenhague
+c) Oslo
+d) Helsínque
+025. Mónaco
+a) Mónaco
+b) San Marino
+c) Andorra-a-Velha
+d) Vaduz
+026. Uzbequistão
+a) Bisqueque
+b) Dushanbe
+c) Tashkent
+d) Astana
+027. Irão
+a) Bagdade
+b) Cabul
+c) Teerão
+d) Riade
+028. Comores
+a) Moroni
+b) Victoria
+c) Antananarivo
+d) Port Louis
+029. Tuvalu
+a) Palikir
+b) Funafuti
+c) Tarawa
+d) Majuro
+030. Santa Lúcia
+a) Castries
+b) Kingstown
+c) Saint George's
+d) Bridgetown
+031. Seicheles
+a) Port Louis
+b) Moroni
+c) Victoria
+d) Antananarivo
+032. Letónia
+a) Tallinn
+b) Vílnius
+c) Riga
+d) Minsk
+033. São Marino
+a) Vaduz
+b) Roma
+c) São Marino
+d) Cidade do Vaticano
+034. Serra Leoa
+a) Monróvia
+b) Freetown
+c) Conacri
+d) Abidjan
+035. Liechtenstein
+a) Berna
+b) Vaduz
+c) Luxemburgo
+d) Mónaco
+036. República Dominicana
+a) Havana
+b) San Juan
+c) Santo Domingo
+d) Porto Príncipe
+037. Namíbia
+a) Windhoek
+b) Gaborone
+c) Lusaca
+d) Pretória
+038. Nepal
+a) Daca
+b) Thimphu
+c) Catmandu
+d) Nova Deli
+039. Togo
+a) Acra
+b) Cotonou
+c) Lomé
+d) Ouagadougou
+040. Trindade e Tobago
+a) Porto de Espanha
+b) Bridgetown
+c) Kingstown
+d) Georgetown
+041. Chéquia
+a) Viena
+b) Budapeste
+c) Praga
+d) Varsóvia
+042. Jamaica
+a) Kingston
+b) Havana
+c) Nassau
+d) Porto Príncipe
+043. Ruanda
+a) Bujumbura
+b) Kigali
+c) Campala
+d) Gitega
+044. Malásia
+a) Singapura
+b) Jacarta
+c) Kuala Lumpur
+d) Banguecoque
+045. Vietname
+a) Phnom Penh
+b) Vientiane
+c) Hanói
+d) Banguecoque
+046. Mauritânia
+a) Bamako
+b) Nouakchott
+c) Dakar
+d) Rabat
+047. Albânia
+a) Escópia
+b) Tirana
+c) Pristina
+d) Podgorica
+048. Guiné Equatorial
+a) Malabo
+b) Libreville
+c) Iaundé
+d) São Tomé
+049. Chipre
+a) Atenas
+b) Ancara
+c) Nicósia
+d) Beirute
+050. Dinamarca
+a) Oslo
+b) Estocolmo
+c) Copenhague
+d) Berlim
+051. Sudão do Sul
+a) Cartum
+b) Adis Abeba
+c) Juba
+d) Nairobi
+052. Tonga
+a) Apia
+b) Suva
+c) Nucualofa
+d) Port Vila
+053. Cazaquistão
+a) Astana
+b) Tashkent
+c) Bisqueque
+d) Ulan Bator
+054. Cuba
+a) Miami
+b) Havana
+c) Kingston
+d) Santo Domingo
+055. Omã
+a) Riade
+b) Sana'a
+c) Mascate
+d) Abu Dhabi
+056. Eslovénia
+a) Zagreb
+b) Sarajevo
+c) Liubliana
+d) Belgrado
+057. Estónia
+a) Riga
+b) Vílnius
+c) Helsínque
+d) Tallinn
+058. Ilhas Salomão
+a) Honiara
+b) Port Moresby
+c) Port Vila
+d) Suva
+059. Brasil
+a) Rio de Janeiro
+b) São Paulo
+c) Brasília
+d) Buenos Aires
+060. Palau
+a) Palikir
+b) Ngerulmud
+c) Majuro
+d) Yaren
+061. Benim
+a) Lomé
+b) Abuja
+c) Porto Novo
+d) Acra
+062. Gâmbia
+a) Dakar
+b) Bissau
+c) Banjul
+d) Conacri
+063. Coreia do Norte
+a) Seul
+b) Pyongyang
+c) Pequim
+d) Tóquio
+064. Nova Zelândia
+a) Sydney
+b) Wellington
+c) Camberra
+d) Auckland
+065. Libéria
+a) Freetown
+b) Monróvia
+c) Abidjan
+d) Conacri
+066. Angola
+a) Kinshasa
+b) Luanda
+c) Brazzaville
+d) Libreville
+067. Iémen
+a) Mascate
+b) Riade
+c) Sana
+d) Jibuti
+068. Mianmar
+a) Banguecoque
+b) Daca
+c) Naypyidaw
+d) Vientiane
+069. Bósnia e Herzegovina
+a) Belgrado
+b) Sarajevo
+c) Zagreb
+d) Podgorica
+070. Burkina Faso
+a) Bamako
+b) Niamei
+c) Ouagadougou
+d) Acra
+071. Fiji
+a) Suva
+b) Apia
+c) Nucualofa
+d) Port Vila
+072. Finlândia
+a) Estocolmo
+b) Oslo
+c) Helsínque
+d) Copenhague
+073. França
+a) Berlim
+b) Madrid
+c) Paris
+d) Roma
+074. Índia
+a) Mumbai
+b) Calcutá
+c) Nova Deli
+d) Banguecoque
+075. Islândia
+a) Dublim
+b) Reiquiavique
+c) Oslo
+d) Copenhague
+076. Jordânia
+a) Damasco
+b) Beirute
+c) Amã
+d) Jerusalém
+077. Madagáscar
+a) Antananarivo
+b) Maputo
+c) Port Louis
+d) Moroni
+078. Mongólia
+a) Pequim
+b) Astana
+c) Ulan Bator
+d) Moscou
+079. Peru
+a) Bogotá
+b) Quito
+c) Lima
+d) La Paz
+080. Catar
+a) Riade
+b) Kuwait City
+c) Doha
+d) Manama
+081. Senegal
+a) Banjul
+b) Bamako
+c) Dakar
+d) Nouakchott
+082. Somália
+a) Adis Abeba
+b) Mogadíscio
+c) Jibuti
+d) Nairóbi
+083. Espanha
+a) Lisboa
+b) Madrid
+c) Paris
+d) Andorra-a-Velha
+084. Suécia
+a) Copenhague
+b) Oslo
+c) Estocolmo
+d) Helsínque
+085. Tajiquistão
+a) Tashkent
+b) Asgabate
+c) Dushanbe
+d) Bisqueque
+086. Ucrânia
+a) Minsk
+b) Varsóvia
+c) Kiev
+d) Moscou
+087. Zâmbia
+a) Harare
+b) Lusaca
+c) Lilongwe
+d) Kinshasa
+088. Afeganistão
+a) Islamabad
+b) Teerão
+c) Cabul
+d) Tashkent
+089. Malta
+a) Valeta
+b) Roma
+c) Tunes
+d) Nicósia
+090. Burundi
+a) Kigali
+b) Gitega
+c) Campala
+d) Bujumbura
+091. Equador
+a) Lima
+b) Bogotá
+c) Quito
+d) Caracas
+092. Guatemala
+a) Cidade do México
+b) Cidade da Guatemala
+c) San Salvador
+d) Tegucigalpa
+093. Haiti
+a) Santo Domingo
+b) Porto Príncipe
+c) Havana
+d) Kingston
+094. Indonésia
+a) Kuala Lumpur
+b) Singapura
+c) Jacarta
+d) Manila
+095. Luxemburgo
+a) Bruxelas
+b) Luxemburgo
+c) Amsterdã
+d) Estrasburgo
+096. Mali
+a) Niamei
+b) Ouagadougou
+c) Bamako
+d) Nouakchott
+097. México
+a) Cidade da Guatemala
+b) Cidade do México
+c) Havana
+d) Washington, D.C.
+098. Paquistão
+a) Nova Deli
+b) Cabul
+c) Islamabade
+d) Teerão
+099. Polónia
+a) Berlim
+b) Praga
+c) Varsóvia
+d) Viena
+100. Roménia
+a) Budapeste
+b) Sófia
+c) Bucareste
+d) Belgrado
+101. Sérvia
+a) Sarajevo
+b) Belgrado
+c) Sófia
+d) Zagreb
+102. África do Sul
+a) Cidade do Cabo, Pretória, Bloemfontein
+b) Joanesburgo
+c) Durban
+d) Gaborone
+103. Sudão
+a) Juba
+b) Cairo
+c) Cartum
+d) Adis Abeba
+104. Suíça
+a) Genebra
+b) Zurique
+c) Berna
+d) Viena
+105. Turquia
+a) Istambul
+b) Ancara
+c) Atenas
+d) Damasco
+106. Reino Unido
+a) Dublim
+b) Londres
+c) Paris
+d) Edimburgo
+107. Uruguai
+a) Buenos Aires
+b) Montevidéu
+c) Assunção
+d) Santiago
+108. Arménia
+a) Tbilisi
+b) Baku
+c) Erevã
+d) Ancara
+109. Austrália
+a) Sydney
+b) Melbourne
+c) Camberra
+d) Wellington
+110. Barém
+a) Doha
+b) Manama
+c) Kuwait City
+d) Abu Dhabi
+111. Bolívia
+a) Sucre & La Paz
+b) Lima
+c) Santiago
+d) Assunção
+112. Brunei
+a) Bandar Seri Begawan
+b) Singapura
+c) Kuala Lumpur
+d) Jacarta
+113. Bulgária
+a) Bucareste
+b) Belgrado
+c) Sófia
+d) Atenas
+114. Camarões
+a) Abuja
+b) Iaundé
+c) Libreville
+d) N'Djamena
+115. Canadá
+a) Toronto
+b) Montreal
+c) Otava
+d) Vancouver
+116. Colômbia
+a) Caracas
+b) Quito
+c) Bogotá
+d) Lima
+117. Costa do Marfim
+a) Abidjan
+b) Iamussucro
+c) Acra
+d) Bamako
+118. Croácia
+a) Liubliana
+b) Budapeste
+c) Zagreb
+d) Sarajevo
+119. Djibouti
+a) Mogadíscio
+b) Adis Abeba
+c) Jibuti
+d) Sana'a
+120. Egito
+a) Trípoli
+b) Cairo
+c) Cartum
+d) Amã
+121. Gabão
+a) Brazzaville
+b) Libreville
+c) Iaundé
+d) Malabo
+122. Geórgia
+a) Erevã
+b) Baku
+c) Tbilisi
+d) Ancara
+123. Alemanha
+a) Paris
+b) Bruxelas
+c) Berlim
+d) Viena
+124. Grécia
+a) Roma
+b) Istambul
+c) Atenas
+d) Sófia
+125. Hungria
+a) Viena
+b) Praga
+c) Budapeste
+d) Bucareste
+126. Irlanda
+a) Londres
+b) Belfast
+c) Dublim
+d) Edimburgo
+127. Israel
+a) Jerusalém
+b) Tel Aviv
+c) Amã
+d) Beirute
+128. Itália
+a) Madrid
+b) Paris
+c) Roma
+d) Atenas
+129. Japão
+a) Pequim
+b) Seul
+c) Tóquio
+d) Xangai
+130. Kuwait
+a) Riade
+b) Bagdade
+c) Cidade do Kuwait
+d) Manama
+131. Malawi
+a) Lusaca
+b) Harare
+c) Lilongwe
+d) Maputo
+132. Maurícia
+a) Victoria
+b) Port Louis
+c) Antananarivo
+d) Moroni
+133. Moldávia
+a) Kiev
+b) Bucareste
+c) Chisinau
+d) Minsk
+134. Montenegro
+a) Tirana
+b) Escópia
+c) Podgorica
+d) Sarajevo
+135. Nauru
+a) Yaren (distrito)
+b) Majuro
+c) Palikir
+d) Tarawa
+136. Nigéria
+a) Lagos
+b) Acra
+c) Abuja
+d) Iaundé
+137. Macedónia do Norte
+a) Sófia
+b) Tirana
+c) Escópia
+d) Pristina
+138. Panamá
+a) San José
+b) Cidade do Panamá
+c) Bogotá
+d) Manágua
+139. Papua Nova Guiné
+a) Jacarta
+b) Port Moresby
+c) Suva
+d) Honiara
+140. Paraguai
+a) Montevidéu
+b) La Paz
+c) Assunção
+d) Buenos Aires
+141. Federação Russa
+a) São Petersburgo
+b) Kiev
+c) Moscou
+d) Minsk
+142. Arábia Saudita
+a) Teerão
+b) Bagdade
+c) Riade
+d) Doha
+143. Singapura
+a) Kuala Lumpur
+b) Singapura
+c) Jacarta
+d) Banguecoque
+144. Coreia do Sul
+a) Pyongyang
+b) Tóquio
+c) Seul
+d) Pequim
+145. Síria
+a) Beirute
+b) Amã
+c) Damasco
+d) Bagdade
+146. Tanzânia
+a) Nairobi
+b) Dar es Salaam
+c) Dodoma
+d) Campala
+147. Estados Unidos da América
+a) Nova Iorque
+b) Washington, D.C.
+c) Los Angeles
+d) Chicago
+148. Venezuela
+a) Bogotá
+b) Caracas
+c) Georgetown
+d) Lima
+149. Andorra
+a) Madrid
+b) Paris
+c) Andorra-a-Velha
+d) Lisboa
+150. Antígua e Barbuda
+a) Saint John's
+b) Bridgetown
+c) Kingstown
+d) Castries
+151. Áustria
+a) Berlim
+b) Praga
+c) Viena
+d) Budapeste
+152. Azerbaijão
+a) Erevã
+b) Tbilisi
+c) Baku
+d) Teerão
+153. Bahamas
+a) Havana
+b) Nassau
+c) Kingston
+d) Miami
+154. Bangladexe
+a) Nova Deli
+b) Calcutá
+c) Daca
+d) Catmandu
+155. Barbados
+a) Bridgetown
+b) Porto de Espanha
+c) Kingstown
+d) Saint George's
+156. Bielorrússia
+a) Kiev
+b) Moscou
+c) Minsk
+d) Varsóvia
+157. Bélgica
+a) Amsterdã
+b) Paris
+c) Bruxelas
+d) Luxemburgo
+158. Belize
+a) Belmopan
+b) Cidade da Guatemala
+c) San Salvador
+d) Tegucigalpa
+159. Botsuana
+a) Harare
+b) Windhoek
+c) Gaborone
+d) Pretória
+160. Camboja
+a) Banguecoque
+b) Hanói
+c) Phnom Penh
+d) Vientiane
+161. Cabo Verde
+a) Bissau
+b) Dakar
+c) Praia
+d) Nouakchott
+162. Chile
+a) Buenos Aires
+b) La Paz
+c) Santiago
+d) Lima
+163. China
+a) Xangai
+b) Hong Kong
+c) Pequim
+d) Tóquio
+164. Congo (Brazzaville)
+a) Kinshasa
+b) Brazzaville
+c) Luanda
+d) Libreville
+165. Congo (Kinshasa)
+a) Brazzaville
+b) Kinshasa
+c) Luanda
+d) Campala
+166. Costa Rica
+a) Manágua
+b) Cidade do Panamá
+c) San José
+d) Tegucigalpa
+167. Eritreia
+a) Adis Abeba
+b) Jibuti
+c) Asmara
+d) Cartum
+168. Etiópia
+a) Nairobi
+b) Cartum
+c) Adis Abeba
+d) Juba
+169. Granada
+a) Kingstown
+b) Bridgetown
+c) Saint George's
+d) Porto de Espanha
+170. Guiné
+a) Bissau
+b) Freetown
+c) Conacri
+d) Bamako
+171. Guiana
+a) Paramaribo
+b) Georgetown
+c) Caiena
+d) Caracas
+172. Honduras
+a) San Salvador
+b) Manágua
+c) Tegucigalpa
+d) Cidade da Guatemala
+173. Quénia
+a) Adis Abeba
+b) Campala
+c) Nairobi
+d) Dodoma
+174. Kiribati
+a) Majuro
+b) Funafuti
+c) Tarawa do Sul
+d) Palikir
+175. Laos
+a) Hanói
+b) Phnom Penh
+c) Vientiane
+d) Banguecoque
+176. Líbia
+a) Cairo
+b) Argel
+c) Trípoli
+d) Tunes
+177. Lituânia
+a) Riga
+b) Tallinn
+c) Vílnius
+d) Minsk
+178. Ilhas Marshall
+a) Palikir
+b) Tarawa
+c) Majuro
+d) Funafuti
+179. Micronésia
+a) Majuro
+b) Palikir
+c) Yaren
+d) Ngerulmud
+180. Níger
+a) Abuja
+b) Bamako
+c) Niamei
+d) N'Djamena
+181. São Cristóvão e Neves
+a) Basseterre
+b) Castries
+c) Saint John's
+d) Kingstown
+182. São Tomé e Príncipe
+a) São Tomé
+b) Malabo
+c) Libreville
+d) Praia
+183. São Vicente e Granadinas
+a) Bridgetown
+b) Saint George's
+c) Kingstown
+d) Castries
+184. Samoa
+a) Nucualofa
+b) Suva
+c) Apia
+d) Funafuti
+185. Suriname
+a) Georgetown
+b) Caiena
+c) Paramaribo
+d) Boa Vista
+186. Tailândia
+a) Kuala Lumpur
+b) Hanói
+c) Banguecoque
+d) Jacarta
+187. Timor-Leste
+a) Díli
+b) Jacarta
+c) Port Moresby
+d) Darwin
+188. Tunísia
+a) Argel
+b) Trípoli
+c) Tunes
+d) Rabat
+189. Turquemenistão
+a) Tashkent
+b) Dushanbe
+c) Asgabate
+d) Cabul
+190. Vanuatu
+a) Suva
+b) Honiara
+c) Port Vila
+d) Apia
+191. Vaticano
+a) Roma
+b) Cidade do Vaticano
+c) San Marino
+d) Florença
+192. Argélia
+a) Rabat
+b) Tunes
+c) Argel
+d) Trípoli
+193. Polônia
+a) Varsóvia
+b) Praga
+c) Berlim
+d) Budapeste
+194. Cingapura
+a) Cingapura
+b) Kuala Lumpur
+c) Jacarta
+d) Bangcoc
+195. Iraque
+a) Teerã
+b) Damasco
+c) Bagdá
+d) Riade
