@@ -1,0 +1,18 @@
+# Arquivos de IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Ambientes Virtuais (Essencial para Python)
+venv/
+env/
+__pycache__/
+
+# Arquivos de sistema operacional
+.DS_Store # (macOS)
+Thumbs.db # (Windows)
+
+# Default ignored files
+/shelf/
+/workspace.xml
